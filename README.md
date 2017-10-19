@@ -15,9 +15,9 @@ ______
    `var x=asciiArtAssist(src,size,color,bgColor);`  
    **Parameters**  
    - `src`: filename or pathname of an image; `'none'` is default value
-   - `size`: font size of a character that is available in `font-size CSS property`; `'inherit'` is default value
-   - `color`: color of a character that is available in `color CSS property`; `'#fff'` is default value
-   - `bgColor`: background color that is available in `background-color CSS property`; `'#000'` is default value
+   - `size`: font size of a character that is available in [`font-size CSS property`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size); `'inherit'` is default value
+   - `color`: color of a character that is available in [`color CSS property`](https://developer.mozilla.org/en-US/docs/Web/CSS/color); `'#fff'` is default value
+   - `bgColor`: background color that is available in [`background-color CSS property`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color); `'#000'` is default value
 
 2. Value of textarea  
    `x();`
