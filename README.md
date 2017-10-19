@@ -6,7 +6,7 @@ https://github.com/YujiSODE/asciiArtAssist
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php
 ______
-
+This function generates simple text editor with a given image background to trace.
 ## Script
 - `asciiArtAssist.js`
 
