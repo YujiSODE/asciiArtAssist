@@ -17,3 +17,8 @@ ______
    `x();`
 3. Closing textarea  
    `x.close();`
+### Parameters
+- `src`: filename or pathname of an image; `'none'` is default value
+- `size`: font size of a character that is available in `font-size CSS property`; `'inherit'` is default value
+- `color`: color of a character that is available in `color CSS property`; `'#fff'` is default value
+- `bgColor`: background color that is available in `background-color CSS property`; `'#000'` is default value
